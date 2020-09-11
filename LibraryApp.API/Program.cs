@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace LibraryApp.API
+namespace LibraryApp.Api
 {
     public class Program
     {
@@ -20,5 +20,8 @@ namespace LibraryApp.API
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
+
+        // checking removal of Controllers folder
+
     }
 }

@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steven\\Desktop\\New folder (2)\\LibraryApp.API\\LibraryApp.API.csproj",
-      "projectName": "LibraryApp.API",
-      "projectPath": "C:\\Users\\Steven\\Desktop\\New folder (2)\\LibraryApp.API\\LibraryApp.API.csproj",
+      "projectUniqueName": "C:\\Projects\\GitHubProjects\\LibraryApp\\LibraryApp.Api\\LibraryApp.Api.csproj",
+      "projectName": "LibraryApp.Api",
+      "projectPath": "C:\\Projects\\GitHubProjects\\LibraryApp\\LibraryApp.Api\\LibraryApp.Api.csproj",
       "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steven\\Desktop\\New folder (2)\\LibraryApp.API\\obj\\",
+      "outputPath": "C:\\Projects\\GitHubProjects\\LibraryApp\\LibraryApp.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
