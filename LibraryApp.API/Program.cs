@@ -21,7 +21,5 @@ namespace LibraryApp.Api
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
 
-        // checking removal of Controllers folder
-
     }
 }
